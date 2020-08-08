@@ -5,10 +5,6 @@
 - Deno.js
 - Vue.js
 
-## Database
-
-- [] MongoDB
-
 ## Development
 
 - [x] Deno.js server and monitor any changes with [Denon](https://github.com/denosaurs/denon)
