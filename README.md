@@ -1,4 +1,4 @@
-# Vue Shopping Cart
+# I Am Drawning Community Project
 
 ## Technologies
 
